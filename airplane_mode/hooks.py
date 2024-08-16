@@ -227,3 +227,12 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+
+# custom_app/custom_app/hooks.py
+
+# doc_events = {
+#     "Airplane Ticket": {
+#         "before_submit": "airplane_mode.airplane_mode.air.airplane_ticket.before_submit"
+#     }
+# }
+
