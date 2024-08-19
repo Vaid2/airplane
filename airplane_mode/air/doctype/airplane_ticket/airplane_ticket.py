@@ -31,11 +31,11 @@ class AirplaneTicket(Document):
 	
 	 
 
-	def seat_number(self):
-		random_number = random.randint(1,50)
-		random_letter = random.choice(string.ascii_uppercase)
-		self.seat = f"{random_number}{random_letter}"
-		return self.seat
+	# def seat_number(self):
+	# 	random_number = random.randint(1,50)
+	# 	random_letter = random.choice(string.ascii_uppercase)
+	# 	self.seat = f"{random_number}{random_letter}"
+	# 	return self.seat
 
 
 	def onload(self):
