@@ -30,7 +30,7 @@ class AirplaneTicket(Document):
 
 	
 	 
-
+	# comment
 	# def seat_number(self):
 	# 	random_number = random.randint(1,50)
 	# 	random_letter = random.choice(string.ascii_uppercase)
